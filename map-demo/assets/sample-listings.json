@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "host_id": 101,
+    "latitude": 41.3851,
+    "longitude": 2.1734,
+    "price": "$120"
+  },
+  {
+    "id": 2,
+    "host_id": 102,
+    "latitude": 41.386,
+    "longitude": 2.1744,
+    "price": "$150"
+  },
+  {
+    "id": 3,
+    "host_id": 103,
+    "latitude": 41.387,
+    "longitude": 2.1754,
+    "price": "$90"
+  }
+]
